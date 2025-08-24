@@ -52,6 +52,7 @@ export default function Footer() {
             </div>
             <div className="flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-4">
               <span className="text-gray-400 text-xs sm:text-sm">🤖 Yapay Zekâ Destekli</span>
+              <span className="text-gray-400 text-xs sm:text-sm">Sevdiklerinize Özel</span>
               <span className="text-gray-400 text-xs sm:text-sm">💝 Güvenilir Hediye Önerileri</span>
             </div>
           </div>
